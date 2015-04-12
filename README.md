@@ -1,7 +1,6 @@
 ## INSTRUCTION
 
-First thing first,  download the data and extract the raw txt file into a local working folder (in this case, ~/R)
-Please use the R Console to run the functions;  DO NOT use R Studio
+First thing first,  download the data and extract the raw txt file into a local working folder (in this case, ~/R). Please use the R Console to run the functions;  DO NOT use R Studio.
 
 ## Introduction
 
