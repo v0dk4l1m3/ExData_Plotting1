@@ -1,4 +1,5 @@
 plot1 <- function() {
+## PLEASE USE R CONSOLE;  DO NOT USE R STUDIO
 ## first download the data and extract the txt file into the working folder (in this case ~/R)
 ## the next lines of codes are intended to read and extract the relevant data into a simpler table
   setwd("~/R")
