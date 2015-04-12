@@ -1,6 +1,6 @@
 ## INSTRUCTION
 
-First thing first,  download the data and extract the raw txt file into a local working folder (in this case, ~/R). Please use the R Console to run the functions;  DO NOT use R Studio.
+First thing first,  download the data and extract the raw txt file into a local working folder (in this case, ~/R). Please use the R Console to run the functions;  DO NOT use R Studio. Each function will read the raw data, extract the relevant subset of data, write a new table with the subset of data, and finally plot the image as instructed.
 
 ## Introduction
 
